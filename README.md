@@ -3,7 +3,7 @@ WebIOPi-0.7.1 Patch for Raspberry B+, PiZero, Pi2, Pi3, and Pi 4
 
 You have full access to all header pins (40 pins) on the Web interface.
 
-## Usage
+## Install
 
 $ wget http://sourceforge.net/projects/webiopi/files/WebIOPi-0.7.1.tar.gz  
 $ tar xvzf WebIOPi-0.7.1.tar.gz  
